@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=HynDuf7&show_icons=true&theme=dark&count_private=true&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HynDuf7&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HynDuf7&langs_count=8&theme=dark&hide_border=true&layout=compact" />
-  <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=HynDuf7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
