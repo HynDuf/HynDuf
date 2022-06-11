@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Huynh Tien Dung a.k.a HynDuf
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm HynDuf (Huynh Tien Dung)
 
-- 👨‍🎓 I am a student at [UET-VNU](https://uet.vnu.edu.vn/).  
+- 👨‍🎓 I am a first-year student at [UET-VNU](https://uet.vnu.edu.vn/). 
+- 🌱 I’m currently learning Data Science on my own.
+- ⚡ I love Linux (Arch btw).
+
 ## Contributions 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=HynDuf7&show_icons=true&theme=dark&count_private=true&hide_border=true" />
