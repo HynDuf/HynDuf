@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 I am a first-year student at [UET-VNU](https://uet.vnu.edu.vn/). 
 - 🌱 I’m currently learning Data Science on my own.
-- ⚡ I love Linux (Arch btw).
+- ⚡ I UsE aRcH BtW
 
 ## Contributions 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
