@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
   - 🔭 I used to do a lot of [Competitive Programming](http://codeforces.com/profile/_LNHTD_).
-  - ⚡ I use ArCh bTw.
+  - 📑 I watch anime and read light novel (sometimes).
+  - ⚡ I use Arch btw.
 
 ## Contributions 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
