@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
   - 🔭 I used to do a lot of [Competitive Programming](http://codeforces.com/profile/_LNHTD_).
-  - 📑 I watch anime and read manga (sometimes).
   - ⚡ I use Arch btw.
 
 
