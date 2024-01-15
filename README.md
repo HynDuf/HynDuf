@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning many things to figure out what I really want to do.
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
-  - 🔭 I used to do a lot of [Competitive Programming](http://codeforces.com/profile/_LNHTD_).
+  - 🔭 I used to do a lot of [Competitive Programming](https://codeforces.com/profile/_LNHTD_).
   - ⚡ I use Arch btw.
   - 💎 I love Obsidian.
+  - 📝 I have a [personal blog](https://hynduf.github.io)
 
 
