@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 📫 Fun fact: 
   - 🔭 I used to do a lot of [Competitive Programming](https://codeforces.com/profile/_LNHTD_).
   - ⚡ I use Arch btw.
-  - 💎 I love Obsidian.
-  - 📝 I have a [personal blog](https://hynduf.github.io)
+  - 💎 I love Obsidian and Anki.
+  - 🦜 I'm learning English and Japanese.
+  - 📝 I have a [personal blog](https://hynduf.github.io).
 
 
