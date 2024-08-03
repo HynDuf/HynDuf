@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
   - 🔭 I used to do a lot of [Competitive Programming](https://codeforces.com/profile/_LNHTD_).
-  - ⚡ I use Nix btw.
+  - ⚡ I use ~~Arch~~ NixOS btw.
   - 💎 I love Obsidian and Anki.
   - 🦜 I'm learning English and Japanese.
   - 📝 I have a [personal blog](https://hynduf.github.io).
