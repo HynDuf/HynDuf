@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm HynDuf.
 
-- 👨‍🎓 I am a final-year student at [UET - VNU](https://uet.vnu.edu.vn/) - K66-C-CLC (K66-IT15). 
+- 👨‍🎓 I'm a final-year student at [UET - VNU](https://uet.vnu.edu.vn/) - K66-C-CLC (K66-IT15). 
 - 🌱 I’m currently learning many things to figure out what I really want to do.
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
