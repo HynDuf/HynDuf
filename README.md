@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm HynDuf.
 
-- 👨‍🎓 "I graduated from UET - VNU (K66-C-CLC (IT15)) as the Valedictorian of the CN1 (IT) major (GPA: 3.91/4.0).
+- 👨‍🎓 I graduated from UET - VNU (K66-C-CLC IT15) as the Valedictorian of the CN1 IT major (GPA: 3.91/4.0).
 - 🌱 I’m currently learning many things to figure out what I really want to do.
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
